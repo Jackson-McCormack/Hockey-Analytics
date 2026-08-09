@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Articles"
+    url: /Hockey-Analytics/Articles/
   - title: "About"
     url: https://jackson-mccormack.github.io/Hockey-Analytics/about/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+  #- title: "Sample Posts"
+   # url: /year-archive/
+  #- title: "Sample Collections"
+   # url: /collection-archive/
+  #- title: "Sitemap"
+   # url: /sitemap/
