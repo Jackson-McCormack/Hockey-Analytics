@@ -1,16 +1,11 @@
 # main links
 main:
-- title: "Feed"
-  url: https://jackson-mccormack.github.io/Hockey-Analytics/Feed/
+#- title: "Feed"
+#  url: https://jackson-mccormack.github.io/Hockey-Analytics/Feed/
 - title: "Articles"
   url: https://jackson-mccormack.github.io/Hockey-Analytics/Articles/
 - title: "Player Performances"
   url: https://jackson-mccormack.github.io/Hockey-Analytics/Daily_KPIs/
 - title: "About"
   url: https://jackson-mccormack.github.io/Hockey-Analytics/About/
-  #- title: "Sample Posts"
-   # url: /year-archive/
-  #- title: "Sample Collections"
-   # url: /collection-archive/
-  #- title: "Sitemap"
-   # url: /sitemap/
+
