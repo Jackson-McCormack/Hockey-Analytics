@@ -4,4 +4,9 @@ permalink: /Articles/
 layout: single
 ---
 
-maybe someone will write something here eventually.
+{% for post in site.posts %}
+
+### [{{ post.title }}]({{ post.url }}) | relative_url }})
+
+{{ post.data | data: "%B %-d, %Y"}} - {{ post.excerpt | strip_html | truncate: 160 }}
+{% endfor %}
